@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CheckBoxAndRadioButtonPractice</string>
+    <string name="question">What do you want on your burger?</string>
+    <string name="beef">Beef</string>
+    <string name="chicken">Chicken</string>
+    <string name="pork">Pork</string>
+    <string name="cheese">Cheese</string>
+    <string name="onions">Onions</string>
+    <string name="salad">Salad</string>
+    <string name="order">ORDER</string>
+</resources>
